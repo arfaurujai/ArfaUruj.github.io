@@ -32,9 +32,13 @@ Contact
 
 About me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+Hi, I’m Mohammed Arfa Uruj, a Full Stack Developer and AI Engineer with hands-on experience building scalable web and mobile applications across finance, healthcare, retail, and logistics. I recently completed my Master’s in Computer Science at California State University, San Bernardino, where I focused on AI/ML, blockchain, and advanced system design.
 
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+Over the past six years, I’ve worked on projects ranging from real-time financial dashboards at FactSet, HIPAA-compliant healthcare systems at Premera Blue Cross, to retail inventory platforms at O’Reilly Auto Parts. Alongside industry roles, I’ve also built passion projects like a Smart Fridge app with barcode scanning and AI recipes, an AI-powered task breakdown app, and a Chrome extension for automated attendance tracking using facial recognition.
+
+I specialize in React, Angular, Node.js, Spring Boot, and cloud deployment (AWS, Azure, Supabase), with a growing focus on AI agents, RAG systems, and LLM-powered applications. I enjoy tackling problems that blend performance, security, and user experience while exploring creative ways to make technology more impactful.
+
+When I’m not coding, I’m often experimenting with AI-driven side projects, writing about emerging tech, or gaming (yes, I’ll happily talk Warframe builds or Pokémon strategies). My goal is to continue building solutions that combine innovation, usability, and AI-driven intelligence—whether that’s for enterprise systems or consumer-focused apps.
 
 
 ## service
@@ -53,37 +57,37 @@ alt = mobile app icon
 Mobile apps
 Professional development of applications for iOS and Android.
 
-alt = camera icon
-Photography
-I make high-quality photos of any category at a professional level.
+##alt = camera icon
+##Photography
+##I make high-quality photos of any category at a professional level.
 
 
 ## testimonials
 
-Testimonials
+##Testimonials
 
-alt = Daniel lewis
-Daniel lewis
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+##alt = Daniel lewis
+##Daniel lewis
+##Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
 
-alt = Jessica miller
-Jessica miller
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+##alt = Jessica miller
+##Jessica miller
+##Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
 
-alt = Emily evans
-Emily evans
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+##alt = Emily evans
+##Emily evans
+##Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
 
-alt = Henry william
-Henry william
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+##alt = Henry william
+##Henry william
+##Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
 
 
 ## clients
 
-Clients
+##Clients
 
-alt = client logo
+##alt = client logo
 
 
 
